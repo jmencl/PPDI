@@ -1,0 +1,6 @@
+Ime i prezime: Jakša Mencl
+Predmet: Podatkovna povezanost i digitalna infrastruktura
+Naziv projekta: Le Monde
+
+GitHub: https://github.com/jmencl/PPDI/tree/main/PROJEKT%20-%20Podatkovna%20povezanost%20i%20digitalna%20infrastruktura
+YouTube: https://youtu.be/ztcp53w4Ymk
