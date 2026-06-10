@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "naslov": "REST vijest 1",
+        "kategorija": "sport",
+        "sazetak": "Ovo je prva vijest iz REST JSON datoteke."
+    },
+    {
+        "id": 2,
+        "naslov": "REST vijest 2",
+        "kategorija": "politique",
+        "sazetak": "Ovo je druga vijest iz REST JSON datoteke."
+    }
+]

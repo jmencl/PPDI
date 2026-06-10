@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vijesti>
+  <vijest>
+    <naslov>XML vijest: Le Monde digitalna arhiva</naslov>
+    <kategorija>politique</kategorija>
+    <sazetak>Primjer vijesti učitane iz XML datoteke.</sazetak>
+    <autor>Jakša Mencl</autor>
+  </vijest>
+  <vijest>
+    <naslov>XML vijest: Sport i digitalni podaci</naslov>
+    <kategorija>sport</kategorija>
+    <sazetak>Ova vijest prikazuje kako se strukturirani XML podaci mogu prikazati u PHP stranici.</sazetak>
+    <autor>Jakša Mencl</autor>
+  </vijest>
+</vijesti>

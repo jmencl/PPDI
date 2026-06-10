@@ -1,0 +1,14 @@
+[
+    {
+        "naslov": "JSON vijest: Web projekt i podaci",
+        "kategorija": "politique",
+        "sazetak": "Primjer vijesti učitane iz JSON datoteke.",
+        "autor": "Jakša Mencl"
+    },
+    {
+        "naslov": "JSON vijest: Prikaz sportskih podataka",
+        "kategorija": "sport",
+        "sazetak": "Ova vijest prikazuje korištenje JSON formata u PHP web aplikaciji.",
+        "autor": "Jakša Mencl"
+    }
+]
